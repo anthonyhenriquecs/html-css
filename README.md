@@ -13,12 +13,18 @@
     <a href="https://github.com/anthonyhenriquecs">clique aqui</a>
     <img src="./assets/images/zoe.jpg">
     <button>CLIQUE</button>
-    <input type="text">
+    <input type="text" placeholder="insira um texto">
     <input type="email">
     <input type="password">
     <input type="number">
     <input type="color">
     <input type="file">
+    <input type="text">
+    <ul>
+        <li> ITEM 1</li>
+        <li> ITEM 2</li>
+        <li> ITEM 3</li>
+    </ul>
 
 </body>
 </html>
