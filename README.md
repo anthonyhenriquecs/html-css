@@ -8,8 +8,13 @@
     <title>Site do Rosinha</title>
 </head>
 <body>
-    <h1>teste</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus inventore ipsum quasi, distinctio, dolorem ad quidem nihil nam est provident quaerat explicabo, maxime a expedita. Hic incidunt non sit voluptas!</p>
+    <div>
+        <h1>teste</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus inventore ipsum quasi, distinctio, dolorem ad quidem nihil nam est provident quaerat explicabo, maxime a expedita. Hic incidunt non sit voluptas!</p>
+    </div>
+    <div>
+        <h1>Conteudo principal</h1>
+    </div>
     <a href="https://github.com/anthonyhenriquecs">clique aqui</a>
     <img src="./assets/images/zoe.jpg">
     <button>CLIQUE</button>
@@ -25,6 +30,7 @@
         <li> ITEM 2</li>
         <li> ITEM 3</li>
     </ul>
+
 
 </body>
 </html>
